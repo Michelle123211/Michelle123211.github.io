@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome to my website!
 I will use this website to list projects I have been working on in the past as well as some interesting current work.
 
 ## Bio
@@ -7,7 +7,7 @@ Currently I'm studying **game development** at the Faculty of Mathematics and Ph
 This year I also taught practicals of the Introduction to Computer Game Development course.
 
 ## Projects
-Throughout my studies I have finished several projects (in chronological order):
+Throughout my studies I have finished several projects (listed in chronological order):
 - **uCube** - [link](https://dspace.cuni.cz/handle/20.500.11956/119422)
   - a mobile application for speedcubing
   - *Bachelor thesis*

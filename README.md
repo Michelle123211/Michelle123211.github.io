@@ -1,3 +1,3 @@
 # Hello World!
 
-Now the theme is not linked as remote. Will it work?
+[This](./projects/ProjectA.md) should be a link to another page. Will it work? Will the theme be kept?

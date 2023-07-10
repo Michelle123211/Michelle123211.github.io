@@ -31,7 +31,7 @@ Throughout my studies I have finished several projects (listed in chronological 
 - **Study materials** for the *Introduction to Computer Game Development* and *Gameplay Programming courses*
   - *Research project*
   - (Details will be added later.)
-- **Brooom: Fly your way up!**
+- **Brooom: Race your way up!**
   - *Master thesis*, in development
 
 ## Notes (czech only)

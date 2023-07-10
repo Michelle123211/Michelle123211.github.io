@@ -1,9 +1,9 @@
-Welcome to my website!
-I will use it to list the projects I have been working on in the past as well as some interesting current work.
+## Welcome!
+I will use this website to list projects I have been working on in the past as well as some interesting current work.
 
 ## Bio
-My name is Michaela Štolová and I'm from the Czech Republic.
-Currently I'm studying game development at the Faculty of Mathematics and Physics, Charles University in Prague.
+My name is **Michaela Štolová** and I'm from the Czech Republic.
+Currently I'm studying **game development** at the Faculty of Mathematics and Physics, Charles University in Prague.
 This year I also taught practicals of the Introduction to Computer Game Development course.
 
 ## Projects
@@ -31,8 +31,10 @@ Throughout my studies I have finished several projects (in chronological order):
 - **Study materials** for the *Introduction to Computer Game Development* and *Gameplay Programming courses*
   - *Research project*
   - (Details will be added later.)
+- **Brooom: Fly your way up!**
+  - *Master thesis*, in development
 
 ## Notes (czech only)
-As a preparation fo the final state exam I am compiling materials with all the necessary information.
-I will publish it here whenever I have anything ready.
+As a preparation fo the **final state exam** I am compiling materials with all the necessary information.
+I will publish it here whenever I have something ready.
 For now you can view the [list of requirements](./notes/requirements.md).

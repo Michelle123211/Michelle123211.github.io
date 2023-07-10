@@ -1,3 +1,3 @@
 # Hello World!
 
-I'm hosted with GitHub Pages.
+Now the theme is not linked as remote. Will it work?

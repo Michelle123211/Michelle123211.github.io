@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Welcome to my website!
 subtitle: Projects, notes and more.
 ---

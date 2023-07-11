@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Témata magisterských SZZ
 subtitle: Vývoj počítačových her
 ---

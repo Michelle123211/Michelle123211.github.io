@@ -1,4 +1,10 @@
-# Welcome to my website!
+---
+layout: page
+title: Welcome to my website!
+subtitle: Projects, notes and more.
+---
+
+
 I will use this website to list projects I have been working on in the past as well as some interesting current work.
 
 ## Bio

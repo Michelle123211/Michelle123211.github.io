@@ -1,8 +1,4 @@
----
-title: Témata magisterských SZZ
-subtitle: Vývoj počítačových her
----
-
+# Témata magisterských SZZ - Vývoj počítačových her
 
 ## 1. Vývoj počítačových her
 

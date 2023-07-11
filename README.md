@@ -1,8 +1,4 @@
----
-title: Welcome to my website!
-subtitle: Projects, notes and more.
----
-
+# Welcome to my website!
 
 I will use this website to list projects I have been working on in the past as well as some interesting current work.
 

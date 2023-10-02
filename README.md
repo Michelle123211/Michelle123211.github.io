@@ -7,7 +7,7 @@ My name is **Michaela Štolová** and I'm from the Czech Republic.
 
 Currently I'm studying **game development** at the Faculty of Mathematics and Physics, Charles University in Prague (MFF UK).
 
-In 2023 This year I also taught practicals of the *Introduction to Computer Game Development* course.
+In 2023 I also taught practicals of the *Introduction to Computer Game Development* course.
 
 ## Projects
 Throughout my studies I have worked on several projects:

@@ -5,7 +5,6 @@
 *Project duration:* August 2019 - June 2020
 
 *Description:* uCube is an application developed in Xamarin.Forms, which is cross-platform but Android was the target platform (with proof-of-concept Windows build).
-
 - It contains:
   - timer with inspection,
   - different scramble generators (random state and random sequence), 

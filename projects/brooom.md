@@ -11,7 +11,6 @@
 - I have started with writing down a game design document (GDD) which serves as a basis for the implementation.
 
 - Now I'm gradually implementing all the necessary parts. So far it is:
-
   - Gameplay mechanics - flying, broom upgrades, hoops, power-ups, achievements.
   - Procedural level generation.
   - 3D models - hoops, broom, player character (+ idle animations), environment elements.
@@ -19,16 +18,13 @@
   - Utilities - localization, keys rebinding, persistent save system, tooltips, custom messaging system.
 
 - There are still some major parts which have not been implemented yet:
-
   - Opponents' artificial intelligence.
   - Spells.
   - Music and sound effects.
   - Visual effects.
-
   - Better UI.
 
 - After the implementation I also intend to perform a series of experiments:
-
   - Playtesting sessions with different players.
   - Checking the comprehensibility of the icons.
 

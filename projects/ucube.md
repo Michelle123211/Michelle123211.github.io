@@ -9,7 +9,7 @@
 - It contains:
   - timer with inspection,
   - different scramble generators (random state and random sequence), 
-  - time charts tables and time charts,
+  - time tables and time charts,
   - import/export of times,
   - separate sessions for different twisty puzzle,
   - metronome,

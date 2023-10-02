@@ -30,4 +30,4 @@
 
 - And finally, when everything is tested, debugged and polished, I will write the master thesis itself.
 
-*Result:* You can try the [last playable version](./Brooom.zip) (from September 2023) but keep in mind it is work in progress which will not be finished in for many months.
+*Result:* You can try the [last playable version](./Brooom.zip) (from September 2023) but keep in mind it is work in progress which will not be finished for many months.

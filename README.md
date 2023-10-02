@@ -4,14 +4,16 @@ I will use this website to list projects I have been working on in the past as w
 
 ## Bio
 My name is **Michaela Štolová** and I'm from the Czech Republic.
+
 Currently I'm studying **game development** at the Faculty of Mathematics and Physics, Charles University in Prague (MFF UK).
+
 In 2023 This year I also taught practicals of the *Introduction to Computer Game Development* course.
 
 ## Projects
 Throughout my studies I have worked on several projects:
-- **Brooom: Race your way up!** (April 2023 - present)
+- **Brooom: Race your way up!** (April 2023 - present) - [details](./projects/brooom.md)
   - *Master thesis*, still in development.
-  - A broom racing game in which you fly through hoops, avoid obstacles, collect power-ups, use magic to your advantage and compete with opponents to become the number one.
+  - A 3D broom racing game in which you fly through hoops, avoid obstacles, collect power-ups, use magic to your advantage and compete with opponents to become the number one.
   - Developed in *Unity*.
 - **Project GAMEHIGHED** (March-December 2022)
   - *Research project*.
@@ -20,11 +22,11 @@ Throughout my studies I have worked on several projects:
 
 - **Peaceful Adventure** (December 2021 - January 2023) - [game page](https://michelle2.itch.io/peaceful-adventure) (with link to source code)
   - *Final project* for the *Practical Course on Managed Game Development* taught at MFF UK.
-  - A pixel art *top-down RPG* in which you are a hero *fighting* against skeletons in the *dungeons*. By clearing out a dungeon you get *rewards* which help you survive longer and be more effective in the combat, and experience points which you need to level up and improve the hero's stats.
+  - A pixel art *top-down RPG* in which you are a hero *fighting* against skeletons in the procedurally generated *dungeons*.
   - Developed in *Unity*.
 - **Silence Killing You** (September 2022) - [game page](https://michelle2.itch.io/silence-killing-you)
   - Submission to the *GDS Jam 2022* (team Tripodiki).
-  - How would you survive in the world, where silence is your greatest enemy? Don't be scared and try our little experiment. There is a prize waiting for you.
+  - A 3D game in which you navigate through a maze and try as hard as possible to avoid absolute silence.
   - Developed in *Unity*.
 - **Evolution in two steps** (April 2022) - [game page](https://michelle2.itch.io/evolution-in-two-steps-now-for-real)
   - Submission to the *Gamedev CUNI Jam 2022* (team Tripodiki).
@@ -38,15 +40,9 @@ Throughout my studies I have worked on several projects:
   - An idle shop tycoon in which you craft unique magical animals, send them on expeditions and/or sell them to customers to earn some money and unlock more exciting recipes.
   - Developed *in a team* of four for the *Game Development 1/2* courses taught at MFF UK.
   - Developed in *Unity*, published on *Google Play*.
-- **uCube** (August 2019 - June 2020) - [thesis repository](https://dspace.cuni.cz/handle/20.500.11956/119422) (attachment contains source code)
+- **uCube** (August 2019 - June 2020) - [details](./projects/ucube.md), [thesis repository](https://dspace.cuni.cz/handle/20.500.11956/119422) (attachment contains source code)
   - *Bachelor thesis*.
-  - A mobile application for speedcubing containing:
-    - timer with scramble generators (random state and random sequence), 
-    - separate sessions for different twisty puzzle,
-    - metronome,
-    - an overview of personal bests for each event (single, Ao5, Ao12),
-    - an API to list current WCA competitions filtered by some criteria (e.g. country, events).
-  - It is very easily expandable to add more functionalities (e.g. virtual cube, trainer).
+  - A mobile application for speedcubing.
   - Developed using *Xamarin.Forms*.
 
 ## Notes (czech only)

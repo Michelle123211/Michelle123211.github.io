@@ -1,3 +1,7 @@
+# Stručný přehled témat SZZ
+
+----
+
 # Vývoj počítačových her
 
 ## 1. Programování počítačových her

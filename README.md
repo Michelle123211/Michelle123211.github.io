@@ -46,6 +46,6 @@ Throughout my studies I have worked on several projects:
   - Developed using *Xamarin.Forms*.
 
 ## Notes (czech only)
-As a preparation for the **final state exam** I am compiling materials with all the necessary information.
-I will publish it here whenever I have something ready.
-For now you can view the [list of requirements](./notes/requirements.md).
+As a preparation for the **final state exam** (you can view the [list of requirements](./notes/requirements.md)) I have compiled materials with all the necessary information.
+For now, there is only very [brief overview](./notes/summary.md), and also separated for each area, [Game Development](./notes/game_development_summary.md), [Computer Graphics](./notes/computer_graphics_summary.md) and [Artificial Intelligence](./notes/artificial_intelligence_summary.md).
+Later, when finished, I will add more detailed materials.

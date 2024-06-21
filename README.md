@@ -46,4 +46,4 @@ Throughout my studies I have worked on several projects:
   - Developed using *Xamarin.Forms*.
 
 ## Notes (czech only)
-As a preparation for the **final state exam** (you can view the [list of requirements](./notes/state_final_exam-requirements.md)) I have compiled materials with all the necessary information for the first three areas, i.e. 1. *Computer Games Development*, 2. *Computer Graphics for Computer Games*, 3. *Artificial Intelligence for Computer Games*. You can find them [here]([Michelle123211/mgr-statnice-poznamky (github.com)](https://github.com/Michelle123211/mgr-statnice-poznamky)).
+As a preparation for the **final state exam** (you can view the [list of requirements](./notes/state_final_exam-requirements.md)) I have compiled materials with all the necessary information for the first three areas, i.e. 1. *Computer Games Development*, 2. *Computer Graphics for Computer Games*, 3. *Artificial Intelligence for Computer Games*. You can find them [here](https://github.com/Michelle123211/mgr-statnice-poznamky).

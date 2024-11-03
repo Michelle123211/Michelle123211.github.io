@@ -4,7 +4,9 @@
 
 *Project start:* April 2023
 
-*Estimated date of completion:* May 2024.
+*Estimated date of completion:* April 2025.
+
+*Repository*: https://github.com/Michelle123211/Brooom
 
 *Progress*:
 
@@ -14,16 +16,20 @@
   - Procedural level generation.
   - 3D models - hoops, broom, player character (+ idle animations), environment elements.
   - Basic UI - main menu, setting, loading screen, character customization, HUD, player overview, shop, race results, cutscenes.
-  - Utilities - localization, keys rebinding, persistent save system, tooltips, custom messaging system.
-- There are still some major parts which have not been implemented yet:
+  - Utilities - localization, keys rebinding, persistent save system, tooltips, custom messaging system, cheats.
   - Opponents' artificial intelligence.
-  - Spells.
+  - Spell system (including spell casting AI).
+- There are still some major parts which have not been implemented yet:
   - Music and sound effects.
   - Visual effects.
   - Better UI.
+  - Level optimizations.
+  - Tutorial.
+  - More animations.
 - After the implementation I also intend to perform a series of experiments:
   - Playtesting sessions with different players.
   - Checking the comprehensibility of the icons.
+  - Evaluation of different AI implementations.
 - And finally, when everything is tested, debugged and polished, I will write the master thesis itself.
 
-*Result:* You can try the [last playable version](./Brooom.zip) (from September 2023) but keep in mind it is work in progress which will not be finished for many months.
+*Result:* You can try the [last playable version](./Brooom.zip) (from November 2024) but keep in mind it is work in progress which will not be finished for many months.

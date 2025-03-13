@@ -4,7 +4,7 @@
 
 *Project start:* April 2023
 
-*Estimated date of completion:* April 2025.
+*Estimated date of completion:* April 2025 (implementation), July 2025 (master thesis text)
 
 *Repository*: https://github.com/Michelle123211/Brooom
 
@@ -19,17 +19,15 @@
   - Utilities - localization, keys rebinding, persistent save system, tooltips, custom messaging system, cheats.
   - Opponents' artificial intelligence.
   - Spell system (including spell casting AI).
-- There are still some major parts which have not been implemented yet:
   - Music and sound effects.
-  - Visual effects.
   - Better UI.
+- There are still some major parts which have not been implemented yet:
   - Level optimizations.
   - Tutorial.
-  - More animations.
 - After the implementation I also intend to perform a series of experiments:
   - Playtesting sessions with different players.
   - Checking the comprehensibility of the icons.
-  - Evaluation of different AI implementations.
+  - Evaluation of different AI implementations, if there is some time left.
 - And finally, when everything is tested, debugged and polished, I will write the master thesis itself.
 
-*Result:* You can try the [last playable version](./Brooom.zip) (from November 2024) but keep in mind it is work in progress which will not be finished for many months.
+*Result:* You can try the [last playable version](./Brooom.zip) (from March 2025) but keep in mind it is work in progress which is still far from being finished.

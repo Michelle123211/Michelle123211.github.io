@@ -21,8 +21,8 @@
   - Spell system (including spell casting AI).
   - Music and sound effects.
   - Better UI.
-- There are still some major parts which have not been implemented yet:
   - Level optimizations.
+- There are still some major parts which have not been implemented yet:
   - Tutorial.
 - After the implementation I also intend to perform a series of experiments:
   - Playtesting sessions with different players.

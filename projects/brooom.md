@@ -11,7 +11,7 @@
 *Progress*:
 
 - I have started with writing down a game design document (GDD) which serves as a basis for the implementation.
-- Now I'm gradually implementing all the necessary parts. So far it is:
+- I have already implemented all major parts, i.e.:
   - Gameplay mechanics - flying, broom upgrades, hoops, power-ups, achievements.
   - Procedural level generation.
   - 3D models - hoops, broom, player character (+ idle animations), environment elements.
@@ -22,12 +22,15 @@
   - Music and sound effects.
   - Better UI.
   - Level optimizations.
-- There are still some major parts which have not been implemented yet:
   - Tutorial.
+- Now there are only a few things left:
+  - Quick race option.
+  - Game icon.
+  - Separate track generator scene (with an option to set different parameters).
+  - Game trailer.
 - After the implementation I also intend to perform a series of experiments:
   - Playtesting sessions with different players.
-  - Checking the comprehensibility of the icons.
-  - Evaluation of different AI implementations, if there is some time left.
+  - Checking the comprehensibility of spell icons.
 - And finally, when everything is tested, debugged and polished, I will write the master thesis itself.
 
-*Result:* You can try the [last playable version](./Brooom.zip) (from March 2025) but keep in mind it is work in progress which is still far from being finished.
+*Result:* You can try the [last playable version](./Brooom.zip) (from April 2025) but keep in mind it is work in progress which is still far from being finished.

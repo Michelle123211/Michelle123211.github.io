@@ -33,4 +33,4 @@
   - Checking the comprehensibility of spell icons.
 - And finally, when everything is tested, debugged and polished, I will write the master thesis itself.
 
-*Result:* You can try the [last playable version](./Brooom.zip) (from April 2025) but keep in mind it is work in progress which is still far from being finished.
+*Result:* You can try the [last playable version](./Brooom.zip) (from April 2025) but keep in mind it is work in progress which is still far from being a finished and publishable game.

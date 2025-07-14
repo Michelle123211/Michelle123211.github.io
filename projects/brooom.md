@@ -23,14 +23,15 @@
   - Better UI.
   - Level optimizations.
   - Tutorial.
-- Now there are only a few things left:
   - Quick race option.
   - Game icon.
   - Separate track generator scene (with an option to set different parameters).
-  - Game trailer.
-- After the implementation I also intend to perform a series of experiments:
+- I have also conducted a series of experiments:
   - Playtesting sessions with different players.
-  - Checking the comprehensibility of spell icons.
-- And finally, when everything is tested, debugged and polished, I will write the master thesis itself.
+  - Checking the clarity of spell icons.
 
-*Result:* You can try the [last playable version](./Brooom.zip) (from April 2025) but keep in mind it is work in progress which is still far from being a finished and publishable game.
+- And I have written the master thesis itself.
+- Now there are only a few things left to be done before the thesis defense:
+  - Game trailer.
+
+*Result:* You can try the [last playable version](./Brooom.zip) (from July 2025), but keep in mind it is only a demo version which is still far from being a finished and publishable game.

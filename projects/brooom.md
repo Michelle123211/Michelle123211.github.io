@@ -6,7 +6,7 @@
 
 *Estimated date of completion:* April 2025 (implementation), July 2025 (master thesis text)
 
-*Repository*: https://github.com/Michelle123211/Brooom
+*Links*: [game page](https://michelle2.itch.io/brooom), [source code](https://github.com/Michelle123211/Brooom)
 
 *Progress*:
 

@@ -39,7 +39,7 @@ Throughout my studies I have worked on several projects:
   - An *idle shop tycoon* in which you craft unique magical animals, send them on expeditions and/or sell them to customers to earn some money and unlock more exciting recipes.
   - Developed *in a team* of four for the *Game Development 1 and 2* courses taught at MFF UK.
   - Developed in *Unity*, published on *Google Play* (but unfortunately it has been removed since then).
-- **uCube** (August 2019 - June 2020) - \| [details](./projects/ucube.md) \| [thesis repository](https://dspace.cuni.cz/handle/20.500.11956/119422) (attachment contains source code) \|
+- **uCube** (August 2019 - June 2020) - \| [details](./projects/ucube.md) \| [thesis repository](https://dspace.cuni.cz/handle/20.500.11956/119422) (source code in attachment) \|
   - *Bachelor thesis*.
   - A mobile application for speedcubing, developed using *Xamarin.Forms*. Created in a way that new features can be added easily (using MEF, Managed Extensibility Framework).
 

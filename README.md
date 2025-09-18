@@ -5,14 +5,14 @@ I will use this website to list projects I have been working on in the past as w
 ## Bio
 My name is **Michaela Štolová** and I'm from the Czech Republic.
 
-Currently I'm studying **game development** at the Faculty of Mathematics and Physics, Charles University in Prague (MFF UK).
+I've just finished a Master's degree in **game development** at the Faculty of Mathematics and Physics, Charles University in Prague (MFF UK).
 
 In 2023 I also taught practicals of the *Introduction to Computer Game Development* course.
 
 ## Projects
 Throughout my studies I have worked on several projects:
-- **Brooom: Race your way up!** (April 2023 - present) - \| [details](./projects/brooom.md) \| [game page](https://michelle2.itch.io/brooom) \| [source code](https://github.com/Michelle123211/Brooom) \|
-  - *Master thesis*, still in development.
+- **Brooom: Race your way up!** (April 2023 - July 2025) - \| [details](./projects/brooom.md) \| [game page](https://michelle2.itch.io/brooom) \| [source code](https://github.com/Michelle123211/Brooom) \| [thesis](./projects/brooom-master_thesis.pdf) (in Czech) |
+  - *Master thesis*, successfully defended and nominated for IT SPY award (still ongoing).
   - A *3D broom racing game* in which you fly through hoops, avoid obstacles, collect power-ups, use magic to your advantage and compete with opponents to become the number one.
   - Developed in *Unity*.
 - **Project GAMEHIGHED** (March-December 2022)

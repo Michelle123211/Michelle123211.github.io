@@ -1,8 +1,8 @@
-<img src="./img/Brooom/Logo-white_outline.png" alt="Brooom logo" style="zoom: 100%;" />
-
 # Brooom: Race your way up!
 
 **A broom racing game in which you fly through hoops, avoid obstacles, collect power-ups, use magic to your advantage and compete with opponents to become the number one.**
+
+<img src="./img/Brooom/banner2.png" alt="Brooom logo" style="zoom: 100%;" />
 
 **Project start:** April 2023
 
@@ -10,7 +10,7 @@
 
 The thesis was successfully defended and has been nominated for the prestigious **IT SPY award** (which is still ongoing).
 
-**Links:** [game page](https://michelle2.itch.io/brooom), [source code](https://github.com/Michelle123211/Brooom), [thesis](./projects/brooom-master_thesis.pdf) (in Czech)
+**Links:** [game page](https://michelle2.itch.io/brooom), [source code](https://github.com/Michelle123211/Brooom), [thesis](./brooom-master_thesis.pdf) (in Czech)
 
 **Progress:**
 

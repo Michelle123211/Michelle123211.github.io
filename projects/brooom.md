@@ -10,7 +10,7 @@
 
 The thesis was successfully defended and has been nominated for the prestigious **IT SPY award** (which is still ongoing).
 
-**Links:** [game page](https://michelle2.itch.io/brooom), [source code](https://github.com/Michelle123211/Brooom), [thesis](./brooom-master_thesis.pdf) (in Czech)
+**Links:** [game page](https://michelle2.itch.io/brooom), [source code](https://github.com/Michelle123211/Brooom), [thesis](./brooom-master_thesis.pdf) (in Czech), [leaflet](./brooom-leaflet.pdf) (in Czech)
 
 **Progress:**
 

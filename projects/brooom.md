@@ -8,7 +8,7 @@
 
 **Date of completion (demo version):** April 2025 (implementation), July 2025 (master thesis text), September 2025 (thesis defense)
 
-The thesis was successfully defended and has been nominated for the prestigious **IT SPY award** (which is still ongoing).
+The thesis was successfully defended, won the 2025 **best software master thesis award** at the Faculty of Mathematics and Physics, Charles University, and was nominated for the prestigious **IT SPY award 2025**.
 
 **Links:** [game page](https://michelle2.itch.io/brooom), [source code](https://github.com/Michelle123211/Brooom), [thesis](./brooom-master_thesis.pdf) (in Czech), [leaflet](./brooom-leaflet.pdf) (in Czech)
 
